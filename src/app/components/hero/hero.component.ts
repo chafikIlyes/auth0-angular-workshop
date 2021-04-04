@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './hero.component.html',
 })
 export class HeroComponent implements OnInit {
-  heroLogo = 'https://assets.stickpng.com/images/5a1d2bba4ac6b00ff574e266.png';
+  heroLogo = "assets\img\axa-logo.png";
 
   constructor() {}
 
